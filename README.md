@@ -29,7 +29,6 @@ Here are some selected AI-powered devices:
 | **Owl**       | An open-source AI assistant supporting voice recognition and natural language processing, designed to offer smart home control and information retrieval services. | [Owl GitHub Repository](https://github.com/OwlAIProject/Owl) | OpenAI, Ollama | ESP32, Arduino             | Node.js       | MIT     |
 | **xiaozhi-esp32** | An AI device based on ESP32, supporting voice recognition and natural language processing, suitable for smart home control and information retrieval. | [xiaozhi-esp32 GitHub Repository](https://github.com/78/xiaozhi-esp32) | Coze | ESP32                   | JS       | MIT     |
 | **AI-on-the-Edge Device** | An AI-powered device utilizing the ESP32 to digitize analog meters (water, gas, electricity) through edge computing, featuring TensorFlow Lite integration, inline image processing, and a web interface for administration. | [AI-on-the-Edge Device GitHub Repository](https://github.com/jomjol/AI-on-the-edge-device) | TensorFlow Lite, Python | ESP32 with integrated camera and illumination | Web interface, MQTT protocol | Custom |
-
 | **Poetry Camera RPi** | An AI-powered artistic camera project that uses a Raspberry Pi and a camera module to capture images and generate poetic visuals or text. | [Poetry Camera RPi GitHub Repository](https://github.com/bokito-studio/poetry-camera-rpi) | Python, OpenCV, (Poetry Generation Model) | Raspberry Pi, Camera Module | N/A | CC BY-NC-SA 4.0 |
 
 
